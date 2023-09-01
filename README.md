@@ -1,4 +1,4 @@
-The quiz app is live at https://64f2569bd7589411b7228f14--glittering-mandazi-708503.netlify.app/ .
+The quiz app is live at https://64f257a4d019ec0c29374272--chipper-churros-a953cc.netlify.app/ .
 
 # Getting Started with Create React App
 
