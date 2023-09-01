@@ -8,7 +8,7 @@ const Quiz = ({ name, questions, score, setScore, setQuestions }) => {
   const history = useHistory();
   const [options, setOptions] = useState();
   const [currQues, setCurrQues] = useState(0);
-  const [timeRemaining, setTimeRemaining] = useState(10);
+  const [timeRemaining, setTimeRemaining] = useState(1800);
   const [quizCompleted, setQuizCompleted] = useState(false);
 
   useEffect(() => {
