@@ -1,3 +1,5 @@
+The quiz app is live at https://64f252a2cba86e0be79dc895--cosmic-strudel-b43f1d.netlify.app/ .
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
